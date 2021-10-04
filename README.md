@@ -5,8 +5,8 @@
 
 Information and Software Engineering Student [@foivz](https://github.com/foivz)
 
-- 🔭 I’m currently working on Bachelor's Degree Thesis
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on Personal projects
+- 🌱 I’m currently learning **ASP.NET Core**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kristijan-%C4%8Dulina-317073218/)
 
 ### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="20" height="20"/> LANGUAGES AND TOOLS
