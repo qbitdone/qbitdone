@@ -1,6 +1,6 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="My Project GIF" width="30" height="30">, I am Kristijan Čulina
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="My Project GIF" width="30" height="30">, I am Kristijan
 
-22 Y/O aspiring software engineer from **Croatia** 🇭🇷
+Aspiring software engineer from **Croatia** 🇭🇷
 
 
 Information and Software Engineering Student [@foivz](https://github.com/foivz)
